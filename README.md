@@ -5,6 +5,15 @@ UI Clone - Twitter Responsive
 <p align="center">Responsive Twitter UI Clone for study purposes.</p>
 <p align="center">Deployed <a href="https://rocketseat-twitter-clone.netlify.app/">here</a>.</p>
 
+<p align="center">
+  <a href="https://github.com/VitorOliv/Twitter-UI-Clone/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-twitter?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-twitter?color=%236633cc&logo=mit" alt="License">
+  </a>
+</p>
+
 <hr>
 
 ### Usage
@@ -24,4 +33,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+- **Vitor Santos** - [VitorOliv](https://github.com/VitorOliv)
