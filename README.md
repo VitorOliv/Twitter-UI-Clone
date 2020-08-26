@@ -3,7 +3,7 @@ UI Clone - Twitter Responsive
 </h1>
 
 <p align="center">Responsive Twitter UI Clone for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-twitter-clone.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://gifted-mestorf-0175c2.netlify.app/">here</a>.</p>
 
 <p align="center">
   <a href="https://github.com/VitorOliv/Twitter-UI-Clone/graphs/contributors">
